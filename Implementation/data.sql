@@ -1,0 +1,10 @@
+INSERT INTO products (name, description, quantity_in_stock) VALUES ('Apple', 'Fresh and juicy', 50);
+INSERT INTO products (name, description, quantity_in_stock) VALUES ('Orange', 'Sweet and tangy', 30);
+INSERT INTO products (name, description, quantity_in_stock) VALUES ('Banana', 'Rich in potassium', 25);
+INSERT INTO products (name, description, quantity_in_stock) VALUES ('Grapes', 'Small and sweet', 40);
+INSERT INTO products (name, description, quantity_in_stock) VALUES ('Watermelon', 'Refreshing and juicy', 10);
+INSERT INTO products (name, description, quantity_in_stock) VALUES ('Pineapple', 'Tropical and sweet', 15);
+INSERT INTO products (name, description, quantity_in_stock) VALUES ('Strawberry', 'Sweet and small', 20);
+INSERT INTO products (name, description, quantity_in_stock) VALUES ('Blueberry', 'Tiny and tangy', 35);
+INSERT INTO products (name, description, quantity_in_stock) VALUES ('Mango', 'Fleshy and flavorful', 45);
+INSERT INTO products (name, description, quantity_in_stock) VALUES ('Peach', 'Soft and juicy', 30);
